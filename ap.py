@@ -2,6 +2,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
+import scipy
+
 
 st.title('Titanic Dataset Analysis- Streamlit ')
 
